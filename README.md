@@ -1,11 +1,6 @@
-All exercises follow a similar format:
+This repositry contains solutions to Brian Hogan's: _Exercises for Programmers: 57 Challenges to Develop Your Coding Skills_
 
-# Title of Exercise
-Explanation.
+>  "Great programmers practice to keep their skills sharp. Get sharp and stay 
+sharp with more than fifty practice exercises rooted in real-world scenarios."
 
-### **Example Output**
-> 
-
-### **Constraints**
-
-### **Challenges**
+The aim is complete all 57 challenges, and in doing so, learn a new language! 
