@@ -1,12 +1,13 @@
+# Saying Hello
 The “Hello, World” program is the first program you learn to write in many languages, but 
 it doesn’t involve any input.
 
 Create a program that prompts for your name and prints a greeting using your name.
 
-### **Example**
-> `What is your name?`
+### **Example Output**
+>`What is your name?`
 
-> [user inputs name]
+[user inputs name]
 
 >`Hello, Brian, nice to meet you!`
 
